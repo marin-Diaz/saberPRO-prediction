@@ -7,13 +7,13 @@
 - **Programa**: Ingeniería de Sistemas
 - **Asignatura**: Modelos y Simulación de Sistemas I
 
-*Nombre*: Darwin Andrés Tangarife Avendaño
-- **Cédula**: 1017137654
+*Nombre*: Yiyi Alejandra Lopez Torres
+- **Cédula**: 1000257988
 - **Programa**: Ingeniería de Sistemas
 - **Asignatura**: Modelos y Simulación de Sistemas I
 
-*Nombre*: Yiyi Alejandra Lopez Torres
-- **Cédula**: 1000257988
+*Nombre*: Darwin Andrés Tangarife Avendaño
+- **Cédula**: 1017137654
 - **Programa**: Ingeniería de Sistemas
 - **Asignatura**: Modelos y Simulación de Sistemas I
 
@@ -74,3 +74,9 @@ pip install matplotlib
 - ✅ Configuración del repositorio
 - ✅ Exploración inicial de datos
 - ✅ README con información del equipo
+
+## 🚀 Entrega 2
+
+- ✅ Preprocesado de datos y salida de nuevo archivo para entrenamiento modelo
+- ✅ Principales funcionalidades: [Ver video explicativo aquí](https://youtu.be/-HhzIDoPH20) 
+- ✅ Actualización Readme
