@@ -78,5 +78,5 @@ pip install matplotlib
 ## 🚀 Entrega 2
 
 - ✅ Preprocesado de datos y salida de nuevo archivo para entrenamiento modelo
-- ✅ Principales funcionalidades: [Ver video explicativo aquí](https://youtu.be/-HhzIDoPH20) 
+- ✅ Principales funcionalidades: [Ver video explicativo aquí](https://youtu.be/KTue_DgBw1s) 
 - ✅ Actualización Readme
